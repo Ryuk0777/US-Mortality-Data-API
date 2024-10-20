@@ -1,0 +1,21 @@
+Status,Sex,Cause,Rate
+Rural,Female,Alzheimers,28.75
+Rural,Female,Cancer,150.7
+Rural,Female,Cerebrovascular diseases,40.1
+Rural,Female,Diabetes,19.6
+Rural,Female,Flu and pneumonia,14.9
+Rural,Female,Heart disease,146.55
+Rural,Female,Lower respiratory,45.45
+Rural,Female,Nephritis,12.05
+Rural,Female,Suicide,6.2
+Rural,Female,Unintentional injuries,38.2
+Rural,Male,Alzheimers,21.049999999999997
+Rural,Male,Cancer,209.5
+Rural,Male,Cerebrovascular diseases,38.150000000000006
+Rural,Male,Diabetes,27.2
+Rural,Male,Flu and pneumonia,19.35
+Rural,Male,Heart disease,233.35
+Rural,Male,Lower respiratory,59.599999999999994
+Rural,Male,Nephritis,15.45
+Rural,Male,Suicide,26.45
+Rural,Male,Unintentional injuries,69.55

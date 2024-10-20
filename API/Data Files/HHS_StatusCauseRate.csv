@@ -1,0 +1,21 @@
+Status,Cause,Rate
+Rural,Heart disease,184.0
+Rural,Cancer,165.2
+Urban,Cancer,158.45
+Urban,Heart disease,157.55
+Rural,Lower respiratory,50.900000000000006
+Rural,Unintentional injuries,45.45
+Urban,Lower respiratory,40.0
+Rural,Cerebrovascular diseases,39.650000000000006
+Urban,Cerebrovascular diseases,36.45
+Urban,Unintentional injuries,36.2
+Rural,Diabetes,24.6
+Rural,Alzheimers,23.9
+Urban,Alzheimers,22.75
+Urban,Diabetes,19.549999999999997
+Rural,Flu and pneumonia,17.700000000000003
+Rural,Suicide,15.0
+Urban,Flu and pneumonia,14.45
+Rural,Nephritis,12.9
+Urban,Nephritis,12.9
+Urban,Suicide,10.649999999999999

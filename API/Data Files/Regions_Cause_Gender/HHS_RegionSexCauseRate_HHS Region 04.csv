@@ -1,0 +1,21 @@
+Region,Sex,Cause,Rate
+HHS Region 04,Female,Alzheimers,30.5
+HHS Region 04,Female,Cancer,148.05
+HHS Region 04,Female,Cerebrovascular diseases,41.5
+HHS Region 04,Female,Diabetes,21.2
+HHS Region 04,Female,Flu and pneumonia,15.3
+HHS Region 04,Female,Heart disease,154.5
+HHS Region 04,Female,Lower respiratory,45.5
+HHS Region 04,Female,Nephritis,14.5
+HHS Region 04,Female,Suicide,5.95
+HHS Region 04,Female,Unintentional injuries,34.95
+HHS Region 04,Male,Alzheimers,21.8
+HHS Region 04,Male,Cancer,224.95
+HHS Region 04,Male,Cerebrovascular diseases,43.3
+HHS Region 04,Male,Diabetes,28.6
+HHS Region 04,Male,Flu and pneumonia,19.8
+HHS Region 04,Male,Heart disease,244.6
+HHS Region 04,Male,Lower respiratory,59.6
+HHS Region 04,Male,Nephritis,19.9
+HHS Region 04,Male,Suicide,23.05
+HHS Region 04,Male,Unintentional injuries,67.65

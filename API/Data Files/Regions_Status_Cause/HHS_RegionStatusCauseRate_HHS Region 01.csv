@@ -1,0 +1,21 @@
+Region,Status,Cause,Rate
+HHS Region 01,Rural,Alzheimers,23.0
+HHS Region 01,Rural,Cancer,173.7
+HHS Region 01,Rural,Cerebrovascular diseases,32.4
+HHS Region 01,Rural,Diabetes,19.4
+HHS Region 01,Rural,Flu and pneumonia,13.75
+HHS Region 01,Rural,Heart disease,161.8
+HHS Region 01,Rural,Lower respiratory,46.5
+HHS Region 01,Rural,Nephritis,10.9
+HHS Region 01,Rural,Suicide,15.700000000000001
+HHS Region 01,Rural,Unintentional injuries,44.65
+HHS Region 01,Urban,Alzheimers,19.1
+HHS Region 01,Urban,Cancer,167.4
+HHS Region 01,Urban,Cerebrovascular diseases,28.45
+HHS Region 01,Urban,Diabetes,15.649999999999999
+HHS Region 01,Urban,Flu and pneumonia,15.65
+HHS Region 01,Urban,Heart disease,151.64999999999998
+HHS Region 01,Urban,Lower respiratory,34.45
+HHS Region 01,Urban,Nephritis,14.5
+HHS Region 01,Urban,Suicide,9.85
+HHS Region 01,Urban,Unintentional injuries,34.95

@@ -1,0 +1,21 @@
+Sex,Cause,Rate
+Female,Alzheimers,27.85
+Female,Cancer,144.25
+Female,Cerebrovascular diseases,37.349999999999994
+Female,Diabetes,17.75
+Female,Flu and pneumonia,13.75
+Female,Heart disease,135.14999999999998
+Female,Lower respiratory,40.75
+Female,Nephritis,11.649999999999999
+Female,Suicide,5.8
+Female,Unintentional injuries,28.75
+Male,Alzheimers,20.799999999999997
+Male,Cancer,203.5
+Male,Cerebrovascular diseases,37.3
+Male,Diabetes,25.25
+Male,Flu and pneumonia,18.55
+Male,Heart disease,215.5
+Male,Lower respiratory,51.2
+Male,Nephritis,16.85
+Male,Suicide,23.7
+Male,Unintentional injuries,55.75
