@@ -41,27 +41,27 @@ Example -> "http://127.0.0.1:5000/Region"
 
 **Data Request by Regions**
 
-1. HHS<-Region NO->-Cause
+1. HHS<-Region No->-Cause
 
 Example -> "http://127.0.0.1:5000/HHS1-Cause"
 
-2. HHS<-Region NO->-Urban || Rural
+2. HHS<-Region No->-Urban || Rural
 
 Example -> "http://127.0.0.1:5000/HHS1-Urban || Rural"
 
-3. HHS<-Region NO->-Gender
+3. HHS<-Region No->-Gender
 
 Example -> "http://127.0.0.1:5000/HHS1-Gender"
 
 
-4. HHS<-Region NO->-Cause-Urban || Rural
+4. HHS<-Region No->-Cause-Urban || Rural
 
 Example -> "http://127.0.0.1:5000/HHS1-Cause-Urban || Rural"
 
-5. HHS<-Region NO->-Cause-Gender
+5. HHS<-Region No->-Cause-Gender
 
 Example -> "http://127.0.0.1:5000/HHS1-Cause-Gender"
 
-6. HHS<-Region NO->-Urban || Rural-Cause
+6. HHS<-Region No->-Urban || Rural-Cause
 
 Example -> "http://127.0.0.1:5000/HHS1-Urban || Rural-Cause"
